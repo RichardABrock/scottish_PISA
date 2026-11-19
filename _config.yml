@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "My PISA Analysis"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: missingness.qmd
+        text: missingness
+      - href: pv_items.qmd
+        text: pv_items
+      - href: table_a_items.qmd
+        text: table_a_items
+      - href: table_b_items.qmd
+        text: table_b_items
+
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual

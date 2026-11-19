@@ -1,0 +1,555 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "",
+    "text": "Scotland results analysis in PISA 2025\nA reporting dashboard for the Scottish data in PISA 2025. ## Report Sections\n\nMissingness Analysis: Review missing data\nPV Items: Plots of PV scales and subscales\nTable A Items: Non-numeric and numeric student questionnaire items in table a\nTable B Items: Non-numeric student questionnaire items in table b"
+  },
+  {
+    "objectID": "table_a_items.html#st034q03ta",
+    "href": "table_a_items.html#st034q03ta",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST034Q03TA",
+    "text": "ST034Q03TA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split",
+    "href": "table_a_items.html#gender-split",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st034q01ta",
+    "href": "table_a_items.html#st034q01ta",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST034Q01TA",
+    "text": "ST034Q01TA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-1",
+    "href": "table_a_items.html#gender-split-1",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st265q03ja",
+    "href": "table_a_items.html#st265q03ja",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST265Q03JA",
+    "text": "ST265Q03JA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-2",
+    "href": "table_a_items.html#gender-split-2",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st062q02ta",
+    "href": "table_a_items.html#st062q02ta",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST062Q02TA",
+    "text": "ST062Q02TA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-3",
+    "href": "table_a_items.html#gender-split-3",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st062q03ta",
+    "href": "table_a_items.html#st062q03ta",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST062Q03TA",
+    "text": "ST062Q03TA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-4",
+    "href": "table_a_items.html#gender-split-4",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st097q02ta",
+    "href": "table_a_items.html#st097q02ta",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST097Q02TA",
+    "text": "ST097Q02TA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-5",
+    "href": "table_a_items.html#gender-split-5",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st097q06da",
+    "href": "table_a_items.html#st097q06da",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST097Q06DA",
+    "text": "ST097Q06DA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-6",
+    "href": "table_a_items.html#gender-split-6",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st100q02ta",
+    "href": "table_a_items.html#st100q02ta",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST100Q02TA",
+    "text": "ST100Q02TA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-7",
+    "href": "table_a_items.html#gender-split-7",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st498q09da",
+    "href": "table_a_items.html#st498q09da",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST498Q09DA",
+    "text": "ST498Q09DA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-8",
+    "href": "table_a_items.html#gender-split-8",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st498q13da",
+    "href": "table_a_items.html#st498q13da",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST498Q13DA",
+    "text": "ST498Q13DA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-9",
+    "href": "table_a_items.html#gender-split-9",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st498q01da",
+    "href": "table_a_items.html#st498q01da",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST498Q01DA",
+    "text": "ST498Q01DA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-10",
+    "href": "table_a_items.html#gender-split-10",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st533q01da",
+    "href": "table_a_items.html#st533q01da",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST533Q01DA",
+    "text": "ST533Q01DA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-11",
+    "href": "table_a_items.html#gender-split-11",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st300q09ja",
+    "href": "table_a_items.html#st300q09ja",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST300Q09JA",
+    "text": "ST300Q09JA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-12",
+    "href": "table_a_items.html#gender-split-12",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st250q02ja",
+    "href": "table_a_items.html#st250q02ja",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST250Q02JA",
+    "text": "ST250Q02JA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-13",
+    "href": "table_a_items.html#gender-split-13",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st250q05ja",
+    "href": "table_a_items.html#st250q05ja",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST250Q05JA",
+    "text": "ST250Q05JA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-14",
+    "href": "table_a_items.html#gender-split-14",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#bullied",
+    "href": "table_a_items.html#bullied",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "BULLIED",
+    "text": "BULLIED"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-15",
+    "href": "table_a_items.html#gender-split-15",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#teachsup",
+    "href": "table_a_items.html#teachsup",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "TEACHSUP",
+    "text": "TEACHSUP"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-16",
+    "href": "table_a_items.html#gender-split-16",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#effscie",
+    "href": "table_a_items.html#effscie",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "EFFSCIE",
+    "text": "EFFSCIE"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-17",
+    "href": "table_a_items.html#gender-split-17",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#pqscar",
+    "href": "table_a_items.html#pqscar",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "PQSCAR",
+    "text": "PQSCAR"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-18",
+    "href": "table_a_items.html#gender-split-18",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "missingness.html",
+    "href": "missingness.html",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "",
+    "text": "Proportions of missingness in items in Table A - 1 is completely missing; 0 is no missing data\n\n\nitemNot Scotland1Scotland1ST034Q03TA0.070.04ST034Q01TA0.070.04ST265Q03JA0.080.03ST062Q02TA0.070.05ST062Q03TA0.070.04ST097Q02TA0.110.13ST097Q06DA0.120.13ST100Q02TA0.150.13ST498Q09DA0.110.10ST498Q13DA0.110.11ST498Q01DA0.100.10ST533Q01DA0.190.08ST300Q09JA0.150.10ST250Q02JA0.060.03ST250Q05JA0.060.03BULLIED0.060.04TEACHSUP0.150.13EFFSCIE0.100.13PQSCAR0.831.00REGION0.040.001Proportions exceeding 0.10 are highlighted in red.\n\n\nProportions of missingness in items in Table B - 1 is completely missing; 0 is no missing data\n\n\nitemNot Scotland1Scotland1ST469Q11DA0.120.18ST515Q04DA0.200.22ST515Q08DA0.200.22ST515Q09DA0.200.23ST131Q04NA0.100.15ST131Q10DA0.120.16ST469Q10DA0.120.18ST129Q05TA0.110.13ST129Q08DA0.110.14ST129Q14DA0.130.14ST129Q12DA0.120.14ST501Q03DA0.100.14ST501Q05DA0.100.14ST501Q06DA0.100.15ST531Q11DA0.090.16ST499Q02DA0.110.11ST498Q09DA0.110.10ST100Q01TA0.140.13ST097Q02TA0.110.13REGION0.040.001Proportions exceeding 0.10 are highlighted in red."
+  },
+  {
+    "objectID": "missingness.html#table-a-items-missingness-checks",
+    "href": "missingness.html#table-a-items-missingness-checks",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "",
+    "text": "Proportions of missingness in items in Table A - 1 is completely missing; 0 is no missing data\n\n\nitemNot Scotland1Scotland1ST034Q03TA0.070.04ST034Q01TA0.070.04ST265Q03JA0.080.03ST062Q02TA0.070.05ST062Q03TA0.070.04ST097Q02TA0.110.13ST097Q06DA0.120.13ST100Q02TA0.150.13ST498Q09DA0.110.10ST498Q13DA0.110.11ST498Q01DA0.100.10ST533Q01DA0.190.08ST300Q09JA0.150.10ST250Q02JA0.060.03ST250Q05JA0.060.03BULLIED0.060.04TEACHSUP0.150.13EFFSCIE0.100.13PQSCAR0.831.00REGION0.040.001Proportions exceeding 0.10 are highlighted in red.\n\n\nProportions of missingness in items in Table B - 1 is completely missing; 0 is no missing data\n\n\nitemNot Scotland1Scotland1ST469Q11DA0.120.18ST515Q04DA0.200.22ST515Q08DA0.200.22ST515Q09DA0.200.23ST131Q04NA0.100.15ST131Q10DA0.120.16ST469Q10DA0.120.18ST129Q05TA0.110.13ST129Q08DA0.110.14ST129Q14DA0.130.14ST129Q12DA0.120.14ST501Q03DA0.100.14ST501Q05DA0.100.14ST501Q06DA0.100.15ST531Q11DA0.090.16ST499Q02DA0.110.11ST498Q09DA0.110.10ST100Q01TA0.140.13ST097Q02TA0.110.13REGION0.040.001Proportions exceeding 0.10 are highlighted in red."
+  },
+  {
+    "objectID": "table_b_items.html#st469q11da",
+    "href": "table_b_items.html#st469q11da",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST469Q11DA",
+    "text": "ST469Q11DA"
+  },
+  {
+    "objectID": "table_b_items.html#gender-split",
+    "href": "table_b_items.html#gender-split",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_b_items.html#st515q04da",
+    "href": "table_b_items.html#st515q04da",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST515Q04DA",
+    "text": "ST515Q04DA"
+  },
+  {
+    "objectID": "table_b_items.html#gender-split-1",
+    "href": "table_b_items.html#gender-split-1",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_b_items.html#st515q08da",
+    "href": "table_b_items.html#st515q08da",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST515Q08DA",
+    "text": "ST515Q08DA"
+  },
+  {
+    "objectID": "table_b_items.html#gender-split-2",
+    "href": "table_b_items.html#gender-split-2",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_b_items.html#st515q09da",
+    "href": "table_b_items.html#st515q09da",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST515Q09DA",
+    "text": "ST515Q09DA"
+  },
+  {
+    "objectID": "table_b_items.html#gender-split-3",
+    "href": "table_b_items.html#gender-split-3",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_b_items.html#st131q04na",
+    "href": "table_b_items.html#st131q04na",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST131Q04NA",
+    "text": "ST131Q04NA"
+  },
+  {
+    "objectID": "table_b_items.html#gender-split-4",
+    "href": "table_b_items.html#gender-split-4",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_b_items.html#st131q10da",
+    "href": "table_b_items.html#st131q10da",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST131Q10DA",
+    "text": "ST131Q10DA"
+  },
+  {
+    "objectID": "table_b_items.html#gender-split-5",
+    "href": "table_b_items.html#gender-split-5",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_b_items.html#st469q10da",
+    "href": "table_b_items.html#st469q10da",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST469Q10DA",
+    "text": "ST469Q10DA"
+  },
+  {
+    "objectID": "table_b_items.html#gender-split-6",
+    "href": "table_b_items.html#gender-split-6",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_b_items.html#st129q05ta",
+    "href": "table_b_items.html#st129q05ta",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST129Q05TA",
+    "text": "ST129Q05TA"
+  },
+  {
+    "objectID": "table_b_items.html#gender-split-7",
+    "href": "table_b_items.html#gender-split-7",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_b_items.html#st129q08da",
+    "href": "table_b_items.html#st129q08da",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST129Q08DA",
+    "text": "ST129Q08DA"
+  },
+  {
+    "objectID": "table_b_items.html#gender-split-8",
+    "href": "table_b_items.html#gender-split-8",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_b_items.html#st129q14da",
+    "href": "table_b_items.html#st129q14da",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST129Q14DA",
+    "text": "ST129Q14DA"
+  },
+  {
+    "objectID": "table_b_items.html#gender-split-9",
+    "href": "table_b_items.html#gender-split-9",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_b_items.html#st129q12da",
+    "href": "table_b_items.html#st129q12da",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST129Q12DA",
+    "text": "ST129Q12DA"
+  },
+  {
+    "objectID": "table_b_items.html#gender-split-10",
+    "href": "table_b_items.html#gender-split-10",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_b_items.html#st501q03da",
+    "href": "table_b_items.html#st501q03da",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST501Q03DA",
+    "text": "ST501Q03DA"
+  },
+  {
+    "objectID": "table_b_items.html#gender-split-11",
+    "href": "table_b_items.html#gender-split-11",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_b_items.html#st501q05da",
+    "href": "table_b_items.html#st501q05da",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST501Q05DA",
+    "text": "ST501Q05DA"
+  },
+  {
+    "objectID": "table_b_items.html#gender-split-12",
+    "href": "table_b_items.html#gender-split-12",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_b_items.html#st501q06da",
+    "href": "table_b_items.html#st501q06da",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST501Q06DA",
+    "text": "ST501Q06DA"
+  },
+  {
+    "objectID": "table_b_items.html#gender-split-13",
+    "href": "table_b_items.html#gender-split-13",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_b_items.html#st531q11da",
+    "href": "table_b_items.html#st531q11da",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST531Q11DA",
+    "text": "ST531Q11DA\n\n\nNULL"
+  },
+  {
+    "objectID": "table_b_items.html#gender-split-14",
+    "href": "table_b_items.html#gender-split-14",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split\n\n\nNULL"
+  },
+  {
+    "objectID": "table_b_items.html#st499q02da",
+    "href": "table_b_items.html#st499q02da",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST499Q02DA",
+    "text": "ST499Q02DA"
+  },
+  {
+    "objectID": "table_b_items.html#gender-split-15",
+    "href": "table_b_items.html#gender-split-15",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_b_items.html#st498q09da",
+    "href": "table_b_items.html#st498q09da",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST498Q09DA",
+    "text": "ST498Q09DA"
+  },
+  {
+    "objectID": "table_b_items.html#gender-split-16",
+    "href": "table_b_items.html#gender-split-16",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_b_items.html#st100q01ta",
+    "href": "table_b_items.html#st100q01ta",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST100Q01TA",
+    "text": "ST100Q01TA"
+  },
+  {
+    "objectID": "table_b_items.html#gender-split-17",
+    "href": "table_b_items.html#gender-split-17",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_b_items.html#st097q02ta",
+    "href": "table_b_items.html#st097q02ta",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "ST097Q02TA",
+    "text": "ST097Q02TA"
+  },
+  {
+    "objectID": "table_b_items.html#gender-split-18",
+    "href": "table_b_items.html#gender-split-18",
+    "title": "Scottish PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  }
+]
